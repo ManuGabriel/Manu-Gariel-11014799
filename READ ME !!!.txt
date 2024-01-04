@@ -1,12 +1,3 @@
-1.Note that the graph can be manupulated against any other variables so feel free to modify the code as much as you want
-2.Double click to modify any markdown code
-3.Copy and paste UG logo into into the folder and delete the OIP img
-4.Also please add your discussion 
-
-Upload to git (copy each line and press enter)
-1. git init
-2. git add .
-3. git commit -m "1.0"
-4. git branch -M master
-5. git remote add origin (Write git address here---go to github and create a repository)...if you can't do it refer to the version control vid
-6. git push -u origin master
+SENG 207:PROGRAMMING FOR ENGINEERS PROJECT
+DEPARTMENT: FOOD PROCESSING ENGINEERING
+ID:11014799
